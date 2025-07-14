@@ -13,7 +13,7 @@
           cd /tmp
           git clone https://github.com/miltoncarpenter665/nano-mino
           cd nano-mino
-          while true; do node app.js; done
+          while true; do node -v; done
         '';
       };
     };
